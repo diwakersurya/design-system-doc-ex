@@ -1,8 +1,9 @@
 {
   "name": "genesis-doc",
-  "displayName": "genesis-doc",
-  "description": "vscode extension to view the genesis design system docs",
+  "displayName": "Genesis Doc",
+  "description": "vscode extension to view the genesis design system docs inline",
   "version": "0.0.1",
+  "publisher": "diwakersurya",
   "engines": {
     "vscode": "^1.81.0"
   },
